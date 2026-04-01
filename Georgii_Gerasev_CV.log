@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.3.18)  1 APR 2026 19:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.3.18)  1 APR 2026 19:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -228,6 +228,11 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layouthoffset=\dimen159
 \Gm@layoutvoffset=\dimen160
 \Gm@dimlist=\toks26
+
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (633.78513pt) is ignored.
+
 ) (/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
  (/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
@@ -389,14 +394,14 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(74.68848pt, 448.1309pt, 74.68849pt)
-* v-part:(T,H,B)=(84.50467pt, 633.78513pt, 126.75705pt)
+* v-part:(T,H,B)=(42.67912pt, 745.46222pt, 56.9055pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=448.1309pt
-* \textheight=633.78513pt
+* \textheight=745.46222pt
 * \oddsidemargin=2.41849pt
 * \evensidemargin=2.41849pt
-* \topmargin=-24.76532pt
+* \topmargin=-66.59087pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -419,7 +424,6 @@ Package hyperref Info: Link coloring OFF on input line 61.
 \@outlinefile=\write3
 \openout3 = `Georgii_Gerasev_CV.out'.
 
-\pagenumberwidth=\skip81
 \makecvtitledetailsbox=\box56
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 67.
  (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd
@@ -455,13 +459,13 @@ LaTeX Font Info:    Trying to load font information for U+fontawesomebrands1 on 
 LaTeX Font Info:    Font shape `U/fontawesomebrands1/solid/n' in size <10> not available
 (Font)              Font shape `U/fontawesomebrands1/regular/n' tried instead on input line 67.
 \makecvtitlepicturebox=\box57
-<pictures/smiling_photo.jpg, id=25, 612.2875pt x 713.66624pt>
+<pictures/smiling_photo.jpg, id=24, 612.2875pt x 713.66624pt>
 File: pictures/smiling_photo.jpg Graphic file (type jpg)
 <use pictures/smiling_photo.jpg>
 Package pdftex.def Info: pictures/smiling_photo.jpg  used on input line 67.
 (pdftex.def)             Requested size: 70.0pt x 81.5853pt.
-\makecvtitledetailswidth=\skip82
-\makecvtitlepicturewidth=\skip83
+\makecvtitledetailswidth=\skip81
+\makecvtitlepicturewidth=\skip82
 
 Underfull \hbox (badness 10000) in paragraph at lines 67--67
 [][]\T1/lmr/m/n/34 (+20) Georgii
@@ -485,7 +489,7 @@ Underfull \hbox (badness 5817) in paragraph at lines 76--76
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc} <./pictures/smiling_photo.jpg>] [2] (./Georgii_Gerasev_CV.aux)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc} <./pictures/smiling_photo.jpg>] (./Georgii_Gerasev_CV.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -494,18 +498,18 @@ Package rerunfilecheck Info: File `Georgii_Gerasev_CV.out' has not changed.
 (rerunfilecheck)             Checksum: 62DD62F34532E54CDFA42B4506B62557;370.
  ) 
 Here is how much of TeX's memory you used:
- 16286 strings out of 469515
- 281945 string characters out of 5470807
- 822168 words of memory out of 5000000
+ 16285 strings out of 469515
+ 281939 string characters out of 5470807
+ 822210 words of memory out of 5000000
  44639 multiletter control sequences out of 15000+600000
  684657 words of font info for 114 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 73i,13n,83p,1052b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on Georgii_Gerasev_CV.pdf (2 pages, 264826 bytes).
+ 73i,13n,83p,1052b,453s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
+Output written on Georgii_Gerasev_CV.pdf (1 page, 255313 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
+ 77 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
+ 6 named destinations out of 1000 (max. 500000)
  30758 words of extra memory for PDF output out of 35830 (max. 10000000)
 

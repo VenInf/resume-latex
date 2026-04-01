@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1775055967.6417 "/home/georgii/Documents/resume-latex/Georgii_Gerasev_CV.tex" "Georgii_Gerasev_CV.pdf" "Georgii_Gerasev_CV" 1775055968.15249 0
-  "/home/georgii/Documents/resume-latex/Georgii_Gerasev_CV.tex" 1775055392.97427 7579 89906732985fd5c2467f638b31d2a9fe ""
+["pdflatex"] 1775058652.31292 "/home/georgii/Documents/resume-latex/Georgii_Gerasev_CV.tex" "Georgii_Gerasev_CV.pdf" "Georgii_Gerasev_CV" 1775058652.83215 0
+  "/home/georgii/Documents/resume-latex/Georgii_Gerasev_CV.tex" 1775058651.62144 7602 161b2b0fca36d4c286e369cdb3558e2a ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1772820570 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc" 1772820570 2608 3139db8e1f9371a4f87c0715d17fa217 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1772820570 2375 baa924870cfb487815765f9094cf3728 ""
@@ -38,7 +38,6 @@
   "/usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb" 1772820570 119235 f35b44530a1d90eb90fe15d9cba67ea0 ""
   "/usr/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb" 1772820570 113634 f99c44d58bae0863375faf0e1d74d612 ""
   "/usr/share/texmf-dist/fonts/type1/public/lm/lmr17.pfb" 1772820570 119752 1bd8d06e4079df624bf59ce3ad7c9aa6 ""
-  "/usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb" 1772820570 112593 fda2373ba4420af33949610de4c28fe8 ""
   "/usr/share/texmf-dist/fonts/type1/public/lm/lmro10.pfb" 1772820570 131205 e6b9f0f008cce138627a5f401db34a3b ""
   "/usr/share/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb" 1772820570 91705 188e103f30c94f64bce1570c4b989d07 ""
   "/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1772820570 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -116,9 +115,9 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1772820570 43569 fd570f2fa160877d211e859f687312ba ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1773848077 5385779 47c0c393a77fd4a098bacfd57d66b88a ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1773848048 2328190 57e7f0239fa81d45d02ecc3d52e6edc1 ""
-  "Georgii_Gerasev_CV.aux" 1775055968.09769 576 04e7b3045c4b549ff8320c41581b66a3 "pdflatex"
-  "Georgii_Gerasev_CV.out" 1775055968.09869 370 62dd62f34532e54cdfa42b4506b62557 "pdflatex"
-  "Georgii_Gerasev_CV.tex" 1775055392.97427 7579 89906732985fd5c2467f638b31d2a9fe ""
+  "Georgii_Gerasev_CV.aux" 1775058652.76799 576 d828fa7fc3eba1e56331745080637296 "pdflatex"
+  "Georgii_Gerasev_CV.out" 1775058652.76888 370 62dd62f34532e54cdfa42b4506b62557 "pdflatex"
+  "Georgii_Gerasev_CV.tex" 1775058651.62144 7602 161b2b0fca36d4c286e369cdb3558e2a ""
   "moderncv.cls" 1477716956 17250 1fbc41cafb909395628b327a8abf20da ""
   "moderncvcolorblue.sty" 1477716956 1009 c5b5914d8c68820b8c456499df00f008 ""
   "moderncvcompatibility.sty" 1477716956 3398 356ff0626d1912510390575078c99133 ""
