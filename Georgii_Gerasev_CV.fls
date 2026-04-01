@@ -1,7 +1,7 @@
-PWD /home/georgii/Documents/Georgii_Gerasev_resume_latex
+PWD /home/georgii/Documents/resume-latex
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/georgii/Documents/Georgii_Gerasev_resume_latex/Georgii_Gerasev_CV.tex
+INPUT /home/georgii/Documents/resume-latex/Georgii_Gerasev_CV.tex
 OUTPUT Georgii_Gerasev_CV.log
 INPUT ./moderncv.cls
 INPUT moderncv.cls
