@@ -1,0 +1,165 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% "ModernCV" CV and Cover Letter
+% LaTeX Template
+% Version 1.3 (29/10/16)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Xavier Danaux (xdanaux@gmail.com) with modifications by:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important note:
+% This template requires the moderncv.cls and .sty files to be in the same 
+% directory as this .tex file. These files provide the resume style and themes 
+% used for structuring the document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt,a4paper,roman]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+
+\moderncvstyle{classic} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{blue} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+\usepackage{fontawesome5}
+\usepackage{parskip}
+
+\usepackage[scale=0.75]{geometry} % Reduce document margins
+\setlength{\hintscolumnwidth}{2.5cm} % Uncomment to change the width of the dates column
+\setlength{\makecvtitlenamewidth}{5cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+\firstname{Georgii} % Your first name
+\familyname{Gerasev} % Your last name
+
+% All information in this block is optional, comment out any lines you don't need
+% \title{Curriculum Vitae}
+\email{george30032002@gmail.com}
+\address{}{Tbilisi, Georgia}
+\extrainfo{
+    \faGithub\ \href{https://github.com/VenInf}{VenInf} \\
+    \faLinkedin\ \href{https://www.linkedin.com/in/georgii-gerasev-5a875a274/}{georgii-gerasev} \\
+    \faTelegram\ \href{https://t.me/Ven_Inf}{@Ven\_Inf}
+    }
+
+\photo[70pt][0.4pt]{pictures/smiling_photo} % The first bracket is the picture height, the second is the thickness of the frame around the picture (0pt for no frame)
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	CURRICULUM VITAE
+%----------------------------------------------------------------------------------------
+
+\makecvtitle % Print the CV title
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Education}
+
+\cventry{May 2023 -- January 2025}{BCs Applied Computer Science}{Neapolis University Paphos}{Cyprus}{}{Continue my studies under the JetBrains Software Engineering programme}  % Arguments not required can be left empty
+\cventry{2019 -- 2022}{Applied Computer Science}{Electrotechnical University "LETI"}{\mbox{St. Petersburg}}{}{}
+
+% \section{Masters Thesis}
+
+% \cvitem{Title}{\emph{Money Is The Root Of All Evil -- Or Is It?}}
+% \cvitem{Supervisors}{Professor James Smith \& Associate Professor Jane Smith}
+% \cvitem{Description}{This thesis explored the idea that money has been the cause of untold anguish and suffering in the world. I found that it has, in fact, not.}
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Experience}
+
+% \subsection{Vocational}
+
+\cventry{Jan 2025 — Mar 2026}{Backend software engineer}{Anastasia labs}{}{}{
+    Worked on various projects, mainly using \textbf{Aiken} language, \textbf{TypeScript} with \textbf{Effect library} and \textbf{Haskell}.
+    Implemented fuzzy testing for \textbf{smart contracts}, CLI application for a reliable remote node control.
+    Provided support for a back-end of a token drop system and for multiple \textbf{Cardano L2} projects, in Haskell and TypeScript respectively.
+    }
+\cvitem{Skills}{TypeScript, Haskell, Aiken, Smart Contracts, Docker, Nix, PostgreSQL \newline}
+
+\cventry{May 2024 -- Aug 2024}{Google Summer of Code}{Haskell.org}{Paphos}{}{
+    Worked on a \textbf{Haskell Language Server}, Cabal Plugin Continuation and achieved
+    significant results. Added features like "Cabal-add integration", "go-to definition for modules", "outline view for cabal files" and others,
+    that now are used in the main version of the server.
+    For a more detailed overview feel free to look into \href{https://gist.github.com/VenInf/ae0d45074742f88db7505659d0eb837b}{\textbf{\underline{the github gist}}}.
+}
+\cvitem{Skills}{OpenSource, Haskell, LSP, AST, Compilers \newline}
+
+\cventry{June 2023 — Dec 2023}{Django backend developer}{Fund-Veles (Charitable Foundation)}{Paphos}{}{
+    Worked on a project using \textbf{Django}, implemented the main project architecture and an
+    internal API.
+    The project aimed to simulate the financial system with the universal basic income.
+    Implemented with \textbf{Django REST Framework} and \textbf{Swagger}.
+}
+\cvitem{Skills}{Python, Swagger, Django REST Framework, Business Simulation}
+
+%----------------------------------------------------------------------------------------
+%	AWARDS SECTION
+%----------------------------------------------------------------------------------------
+
+% \section{Awards}
+
+% \cvitem{2011}{School of Business Postgraduate Scholarship}
+% \cvitem{2010}{Top Achiever Award -- Commerce}
+
+%----------------------------------------------------------------------------------------
+%	COMPUTER SKILLS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Main Skills}
+
+\cvitem{Advanced}{Haskell, TypeScript (Effect Framework)}
+\cvitem{Intermediate}{Python, Rust, Go, Linux, PostgreSQL}
+
+%----------------------------------------------------------------------------------------
+%	COMMUNICATION SKILLS SECTION
+%----------------------------------------------------------------------------------------
+
+% \section{Communication Skills}
+
+% \cvitem{2010}{Oral Presentation at the California Business Conference}
+% \cvitem{2009}{Poster at the Annual Business Conference in Oregon}
+
+%----------------------------------------------------------------------------------------
+%	LANGUAGES SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Languages}
+
+\cvitemwithcomment{English}{C1}{}
+\cvitemwithcomment{Russian}{Native}{}
+
+%----------------------------------------------------------------------------------------
+%	INTERESTS SECTION
+%----------------------------------------------------------------------------------------
+
+% \section{Interests}
+
+% \renewcommand{\listitemsymbol}{-~} % Changes the symbol used for lists
+
+% \cvlistdoubleitem{Piano}{Chess}
+% \cvlistdoubleitem{Cooking}{Dancing}
+% \cvlistitem{Running}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
