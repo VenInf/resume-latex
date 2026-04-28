@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1775058652.31292 "/home/georgii/Documents/resume-latex/Georgii_Gerasev_CV.tex" "Georgii_Gerasev_CV.pdf" "Georgii_Gerasev_CV" 1775058652.83215 0
-  "/home/georgii/Documents/resume-latex/Georgii_Gerasev_CV.tex" 1775058651.62144 7602 161b2b0fca36d4c286e369cdb3558e2a ""
+["pdflatex"] 1777378024.40041 "/home/georgii/Documents/resume-latex/Georgii_Gerasev_CV.tex" "Georgii_Gerasev_CV.pdf" "Georgii_Gerasev_CV" 1777378025.06725 0
+  "/home/georgii/Documents/resume-latex/Georgii_Gerasev_CV.tex" 1777378024.20763 8159 a8c5fc4503335c5e9b8bf7b2d9fca4cb ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1772820570 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc" 1772820570 2608 3139db8e1f9371a4f87c0715d17fa217 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1772820570 2375 baa924870cfb487815765f9094cf3728 ""
@@ -115,9 +115,9 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1772820570 43569 fd570f2fa160877d211e859f687312ba ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1773848077 5385779 47c0c393a77fd4a098bacfd57d66b88a ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1773848048 2328190 57e7f0239fa81d45d02ecc3d52e6edc1 ""
-  "Georgii_Gerasev_CV.aux" 1775058652.76799 576 d828fa7fc3eba1e56331745080637296 "pdflatex"
-  "Georgii_Gerasev_CV.out" 1775058652.76888 370 62dd62f34532e54cdfa42b4506b62557 "pdflatex"
-  "Georgii_Gerasev_CV.tex" 1775058651.62144 7602 161b2b0fca36d4c286e369cdb3558e2a ""
+  "Georgii_Gerasev_CV.aux" 1777378024.99826 686 5a46a24ad18da04359fb7b034c35c30e "pdflatex"
+  "Georgii_Gerasev_CV.out" 1777378024.99826 554 878c2f636562cacb1ae39a85e443c756 "pdflatex"
+  "Georgii_Gerasev_CV.tex" 1777378024.20763 8159 a8c5fc4503335c5e9b8bf7b2d9fca4cb ""
   "moderncv.cls" 1477716956 17250 1fbc41cafb909395628b327a8abf20da ""
   "moderncvcolorblue.sty" 1477716956 1009 c5b5914d8c68820b8c456499df00f008 ""
   "moderncvcompatibility.sty" 1477716956 3398 356ff0626d1912510390575078c99133 ""

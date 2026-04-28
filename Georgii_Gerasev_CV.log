@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.3.18)  1 APR 2026 19:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.3.18)  28 APR 2026 16:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -459,7 +459,7 @@ LaTeX Font Info:    Trying to load font information for U+fontawesomebrands1 on 
 LaTeX Font Info:    Font shape `U/fontawesomebrands1/solid/n' in size <10> not available
 (Font)              Font shape `U/fontawesomebrands1/regular/n' tried instead on input line 67.
 \makecvtitlepicturebox=\box57
-<pictures/smiling_photo.jpg, id=24, 612.2875pt x 713.66624pt>
+<pictures/smiling_photo.jpg, id=28, 612.2875pt x 713.66624pt>
 File: pictures/smiling_photo.jpg Graphic file (type jpg)
 <use pictures/smiling_photo.jpg>
 Package pdftex.def Info: pictures/smiling_photo.jpg  used on input line 67.
@@ -495,21 +495,21 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
 Package rerunfilecheck Info: File `Georgii_Gerasev_CV.out' has not changed.
-(rerunfilecheck)             Checksum: 62DD62F34532E54CDFA42B4506B62557;370.
+(rerunfilecheck)             Checksum: 878C2F636562CACB1AE39A85E443C756;554.
  ) 
 Here is how much of TeX's memory you used:
- 16285 strings out of 469515
- 281939 string characters out of 5470807
- 822210 words of memory out of 5000000
- 44639 multiletter control sequences out of 15000+600000
- 684657 words of font info for 114 fonts, out of 8000000 for 9000
+ 16289 strings out of 469515
+ 281983 string characters out of 5470807
+ 825210 words of memory out of 5000000
+ 44640 multiletter control sequences out of 15000+600000
+ 684740 words of font info for 115 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  73i,13n,83p,1052b,453s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on Georgii_Gerasev_CV.pdf (1 page, 255313 bytes).
+Output written on Georgii_Gerasev_CV.pdf (1 page, 256413 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 30758 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 85 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
+ 30766 words of extra memory for PDF output out of 35830 (max. 10000000)
 
